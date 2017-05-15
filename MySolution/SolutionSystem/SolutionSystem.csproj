@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DAL\ChinookContxt.cs" />
     <Compile Include="DAL\SolutionContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
